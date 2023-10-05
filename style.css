@@ -171,10 +171,6 @@ video {
   z-index: 10;
 }
 
-/* #scroll::-webkit-scrollbar { */
-  /* display: none; */
-/* } */
-
 #scroll-in {
   display: inline-block;
   white-space: nowrap;
@@ -370,7 +366,6 @@ video {
   height: 40vh;
   width: 100%;
   position: relative;
-  /* background-color: red; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -451,10 +446,8 @@ video {
 }
 
 #f1 img{
-  /* position: absolute; */
   height: 100px;
   transition: all ease 0.3s;
-  /* top: 90px; */
 }
 
 #f1 img:hover {
